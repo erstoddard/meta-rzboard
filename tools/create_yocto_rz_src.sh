@@ -4,27 +4,27 @@ VERSION=0.2.0
 
 # Make sure that the following packages have been downloaded from the official website
 # RZ/V Verified Linux Package [5.10-CIP]  V3.0.0-update2
-REN_LINUX_BSP_PKG="RTK0EF0045Z0024AZJ-v3.0.0-update2"
+REN_LINUX_BSP_PKG="RTK0EF0045Z0024AZJ-v3.0.2"
 SUFFIX_ZIP=".zip"
 
 # RZ MPU Graphics Library V1.21 Unrestricted Version
 REN_GPU_MALI_LIB_PKG="RTK0EF0045Z14001ZJ-v1.21_EN"
 # RZ MPU Graphics Library Evaluation Version V1.2
-REN_GPU_MALI_LIB_PKG_EVAL="RTK0EF0045Z13001ZJ-v1.21_EN"
+REN_GPU_MALI_LIB_PKG_EVAL="RTK0EF0045Z13001ZJ-v1.4_EN"
 
 # RZ MPU Video Codec Library v1.0 Unrestricted Version
 REN_VEDIO_CODEC_LIB_PKG="RTK0EF0045Z16001ZJ-v1.0_rzg_EN"
 # RZ MPU Video Codec Library Evaluation Version V1.0
-REN_VEDIO_CODEC_LIB_PKG_EVAL="RTK0EF0045Z15001ZJ-v1.0_EN"
+REN_VEDIO_CODEC_LIB_PKG_EVAL="RTK0EF0045Z15001ZJ-v1.0.1_EN"
 
 # RZ/V2L DRP-AI Support Package Version 7.20
-REN_V2L_DRPAI_PKG="r11an0549ej0720-rzv2l-drpai-sp"
+REN_V2L_DRPAI_PKG="r11an0549ej0730-rzv2l-drpai-sp"
 
 # RZ/V2L ISP Support Package Version 1.20
-REN_V2L_ISP_PKG="r11an0561ej0120-rzv2l-isp-sp"
+REN_V2L_ISP_PKG="r11an0561ej0121-rzv2l-isp-sp"
 
 # RZ/V2L Multi-OS Package V1.02
-REN_V2L_MULTI_OS_PKG="r01an6238ej0102-rzv2l-cm33-multi-os-pkg"  
+REN_V2L_MULTI_OS_PKG="r01an6238ej0110-rzv2l-cm33-multi-os-pkg"  
                    
 # ----------------------------------------------------------------
 

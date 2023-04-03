@@ -39,14 +39,16 @@ Due to licensing restrictions on the Renesas website, users are required to down
 
 The following packages should be download:
 
-| Package Name                  | Version                    | Download File                               |
-| ----------------------------- | -------------------------- | ------------------------------------------- |
-| RZ/V Verified Linux Package   | V3.0.0-update2             | RTK0EF0045Z0024AZJ-v3.0.0-update2.zip       |
-| RZ MPU Graphics Library       | Unrestricted Version V1.21 | RTK0EF0045Z14001ZJ-v1.21_EN.zip             |
-| RZ MPU Codec Library          | Unrestricted Version V1.0  | RTK0EF0045Z16001ZJ-v1.0_rzg_EN.zip             |
-| RZ/V2L DRP-AI Support Package | V7.20                      | r11an0549ej0720-rzv2l-drpai-sp.zip          |
-| RZ/V2L ISP Support Package    | V1.20                      | r11an0561ej0120-rzv2l-isp-sp.zip            |
-| RZ/V2L Multi-OS Package       | V1.02                      | r01an6238ej0102-rzv2l-cm33-multi-os-pkg.zip |
+| Package Name                  | Version                    | Download File                               | Link                                                                           |
+| ----------------------------- | -------------------------- | ------------------------------------------- | ---- |
+| RZ/V Verified Linux Package   | V3.0.2             | RTK0EF0045Z0024AZJ-v3.0.2.zip | https://www.renesas.com/us/en/software-tool/rzv-verified-linux-package#overview |
+| RZ MPU Graphics Library (Eval) | Evaluaton Version V1.4 | RTK0EF0045Z13001ZJ-v1.4_EN.zip | https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-arm-based-high-end-32-64-bit-mpus/rz-mpu-graphics-library-evaluation-version-rzv2l#overview |
+| RZ MPU Graphics Library       | Unrestricted Version V1.4 | - | https://www.renesas.com/us/en/document/sws/rz-mpu-graphics-library-v14-unrestricted-version-verified-linux-package-rzv2lrtk0ef0045z14001zj |
+| RZ MPU Codec Library          | Evaluation Version V1.0.1  | RTK0EF0045Z15001ZJ-v1.0.1_EN.zip | https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-arm-based-high-end-32-64-bit-mpus/rz-mpu-video-codec-library-evaluation-version-rzv2l
+| RZ MPU Codec Library          | Unrestricted Version V1.0.1  | - | https://www.renesas.com/us/en/document/sws/rz-mpu-video-codec-library-v101-unrestricted-version-verified-linux-package-rzv2l-rtk0ef0045z16001zj | 
+| RZ/V2L DRP-AI Support Package | V7.30                      | r11an0549ej0730-rzv2l-drpai-sp.zip | https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-arm-based-high-end-32-64-bit-mpus/rzv2l-drp-ai-support-package#overview |
+| RZ/V2L ISP Support Package    | V1.21                      | r11an0561ej0121-rzv2l-isp-sp.zip | https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-arm-based-high-end-32-64-bit-mpus/rzv2l-isp-support-package |
+| RZ/V2L Multi-OS Package       | V1.10                      | r01an6238ej0110-rzv2l-cm33-multi-os-pkg.zip | https://www.renesas.com/us/en/software-tool/rzv2l-group-multi-os-package |
 
 ***Note***: *The Renesas website provides two version packages, "Evaluation Version" and "Unrestricted Version", for each of the **Graphics Library** and the **Codec Library**. It is recommended to download the **Unrestricted Version**, as the Evaluation Version contains a time limitation that stops the software after a few hours.*
 
